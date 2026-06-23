@@ -27,7 +27,7 @@ public:
                 {
                     have[s[high]]++;
 
-                    while(fun(have,need)) // jab tk sahi hai
+                    while(fun(have,need)) 
                     {
                         int len=high-low+1;
                         if(res>len)
