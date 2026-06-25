@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
