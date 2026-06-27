@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
