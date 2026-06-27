@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
