@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
