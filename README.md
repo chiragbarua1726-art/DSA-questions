@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
