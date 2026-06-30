@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
+| [0402-remove-k-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
