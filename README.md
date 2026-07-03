@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
