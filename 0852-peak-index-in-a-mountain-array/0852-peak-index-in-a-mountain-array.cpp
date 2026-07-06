@@ -3,7 +3,7 @@ public:
     int peakIndexInMountainArray(vector<int>& arr) {
         int low = 0;
         int high = arr.size() - 1;
-        int res = 0;
+        int res = -1;
 
         while (low <= high) {
             int guess = (low + high) / 2;
