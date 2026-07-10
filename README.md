@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0075-sort-colors) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sweep Line
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
