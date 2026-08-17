@@ -268,4 +268,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1603-design-parking-system) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
