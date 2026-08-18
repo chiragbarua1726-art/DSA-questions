@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0986-interval-list-intersections) |
+| [0997-find-the-town-judge](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0098-validate-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
