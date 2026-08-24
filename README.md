@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1480-running-sum-of-1d-array) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
