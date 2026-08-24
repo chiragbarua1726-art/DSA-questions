@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0189-rotate-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
