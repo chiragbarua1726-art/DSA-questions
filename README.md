@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
