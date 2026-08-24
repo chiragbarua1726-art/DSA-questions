@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0986-interval-list-intersections) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Divide and Conquer
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sweep Line
 |  |
@@ -264,10 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -338,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
