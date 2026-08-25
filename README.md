@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0202-happy-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0410-split-array-largest-sum) |
@@ -359,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
