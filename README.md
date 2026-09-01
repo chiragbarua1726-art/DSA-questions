@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1701-average-waiting-time) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0410-split-array-largest-sum) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Matrix
 |  |
 | ------- |
