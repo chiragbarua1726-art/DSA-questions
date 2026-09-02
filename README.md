@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0402-remove-k-digits) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 ## Topological Sort
 |  |
 | ------- |
