@@ -8,28 +8,25 @@ Output: 5
 
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& temp) {
-        int n = temp.size();
-        vector<int> res(n,0);
-        stack<int> st;
-        res[n-1] = 0;
+    int findKthLargest(vector<int>& nums, int k) {
+        priority_queue<int , vector<int> , greater<int>> pq;
 
-        for(int i = n-1 ; i>=0 ; i--)
+        int n = nums.size();
+
+        for(int i = 0 ; i<k ; i++)
         {
-            while(!st.empty() && temp[st.top()]<=temp[i])
-            {
-                st.pop();
-            }
-            if(st.empty())
-            {
-                res[i] = 0;
-            }else
-            {
-                res[i] = st.top() - i;   
-            }
-            st.push(i);
-        
+            pq.push(nums[i]);
         }
-        return res;
+
+        for(int i = k ; i<n ; i++)
+        {
+            if(nums[i] <= pq.top())
+                continue;
+            
+            pq.pop();
+            pq.push(nums[i]);
+        }
+
+        return pq.top();
     }
 };
