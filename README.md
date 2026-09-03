@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 ## Design
 |  |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0210-course-schedule-ii) |
