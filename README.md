@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0076-minimum-window-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0383-ransom-note) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0070-climbing-stairs) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0503-next-greater-element-ii) |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
